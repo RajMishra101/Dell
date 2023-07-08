@@ -8,3 +8,5 @@ flask
 pyqt6
 dputils
 opencv-contrib-python
+openpyxl
+nbformat
