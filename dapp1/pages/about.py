@@ -11,5 +11,5 @@ This app performs simple data analysis on the**House Price** dataset.
     -matplotlib
     -seaborn
     
-<img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg">
+<img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg">-
     """, unsafe_allow_html=True)
